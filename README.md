@@ -2,6 +2,9 @@
 Implementation of  [Bilateral Ordinal Relevance Multi-instance Regression for Facial Action Unit Intensity Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Bilateral_Ordinal_Relevance_CVPR_2018_paper.pdf), CVPR, 2018
 
 
+<img src="https://github.com/yzhang2016/BORMIR-AU/blob/main/BORMIR.jpg" width="500">
+
+
 # How to use 
 ``` 
 > cd BORMIR/src
